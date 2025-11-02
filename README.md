@@ -107,4 +107,3 @@ For major changes, please open an issue first to discuss what you’d like to im
 
 MIT © 2025 Stellium
 
-Would you like me to include a “Project Structure” section (with folders like /contracts, /frontend, /backend etc.) to make it even clearer for devs?
