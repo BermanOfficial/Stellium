@@ -48,6 +48,14 @@ Step 6: Deployment & Launch
 Deploy contracts to XX mainnet.
 Launch beta with limited users, followed by global rollout.
 
+##Transactions
+Gamehub: https://stellar.expert/explorer/testnet/account/GCXKTYCVMCAJK76RHN5UDKFAZKMEQ6OIXKNS7I7URR6OTJU7MAPVFTUF
+Gamecreator:
+https://stellar.expert/explorer/testnet/account/GCMBX3QNPOQV7YUCZBSGWVEK2IOLOSWMZG6JBPB5A6AHB2PIMHRAC7RR
+Player:
+https://stellar.expert/explorer/testnet/account/GCXKTYCVMCAJK76RHN5UDKFAZKMEQ6OIXKNS7I7URR6OTJU7MAPVFTUF
+
+
 ##Setup Enviroment
 
 Stellium is a blockchain-powered gaming platform that connects developers and testers through instant, transparent, and rewarding interactions. Built on the XX Blockchain, Stellium enables real-time crypto payments, fair testing environments, and a global network of passionate gamers.
