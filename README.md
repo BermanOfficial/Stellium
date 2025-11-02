@@ -48,7 +48,7 @@ Step 6: Deployment & Launch
 Deploy contracts to XX mainnet.
 Launch beta with limited users, followed by global rollout.
 
-##Transactions
+## Transactions
 Gamehub: https://stellar.expert/explorer/testnet/account/GCXKTYCVMCAJK76RHN5UDKFAZKMEQ6OIXKNS7I7URR6OTJU7MAPVFTUF
 Gamecreator:
 https://stellar.expert/explorer/testnet/account/GCMBX3QNPOQV7YUCZBSGWVEK2IOLOSWMZG6JBPB5A6AHB2PIMHRAC7RR
